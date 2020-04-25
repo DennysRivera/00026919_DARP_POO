@@ -1,0 +1,10 @@
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\Ejercicio_05\bin\Debug\Ejercicio_05.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\Ejercicio_05\bin\Debug\Ejercicio_05.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.csprojResolveAssemblyReference.cache
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\bin\Debug\Ejercicio_05.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\bin\Debug\Ejercicio_05.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.csprojAssemblyReference.cache
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 05\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.pdb
