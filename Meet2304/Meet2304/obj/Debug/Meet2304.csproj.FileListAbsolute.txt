@@ -1,0 +1,5 @@
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Meet2304\Meet2304\bin\Debug\Meet2304.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Meet2304\Meet2304\bin\Debug\Meet2304.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Meet2304\Meet2304\obj\Debug\Meet2304.csprojAssemblyReference.cache
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Meet2304\Meet2304\obj\Debug\Meet2304.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Meet2304\Meet2304\obj\Debug\Meet2304.pdb
