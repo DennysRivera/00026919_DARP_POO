@@ -39,7 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="CalcularNota.cs" />
-        <Compile Include="Evaluación.cs" />
+        <Compile Include="Evaluacion.cs" />
         <Compile Include="Laboratorio.cs" />
         <Compile Include="Parcial.cs" />
         <Compile Include="Program.cs" />

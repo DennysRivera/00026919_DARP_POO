@@ -1,1 +1,5 @@
 C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 06\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csprojAssemblyReference.cache
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 06\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio_01.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 06\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio_01.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 06\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 06\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.pdb

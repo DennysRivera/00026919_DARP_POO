@@ -10,7 +10,13 @@ namespace Ejercicio_01
 
         public Tarea(int porcentaje, String nombre, DateTime fechaEntrega) : base(porcentaje, nombre)
         {
-            this.FechaEntrega = fechaEntrega;
+            this.fechaEntrega = fechaEntrega;
+        }
+        
+        public override string ToString()
+        {
+            return $"{nameof(nombre)}: {nombre}, {nameof(porcentaje)}: {porcentaje}, " +
+                   $"{nameof(fechaEntrega)}: {fechaEntrega.ToShortDateString()}";
         }
     }
 }

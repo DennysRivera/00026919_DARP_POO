@@ -6,9 +6,14 @@ namespace Ejercicio_01
     {
         private String tipo;
 
-        public Laboratorio(int porcentaje, string nombre, string tipo) : base(porcentaje, nombre)
+        public Laboratorio(int porcentaje, String nombre, String tipo) : base(porcentaje, nombre)
         {
             this.tipo = tipo;
+        }
+        
+        public override string ToString()
+        { return $"{nameof(nombre)}: {nombre}, {nameof(porcentaje)}: {porcentaje}, " +
+                 $"{nameof(tipo)}: {tipo}";
         }
     }
 }
