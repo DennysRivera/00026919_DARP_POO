@@ -10,8 +10,16 @@ namespace Ejercicio_01
             double total = 0, nota;
             foreach (var it in ev)
             {
-                Console.Write("Nota en " + it.Nombre() + ": ");
-                nota = Convert.ToDouble(Console.ReadLine());
+                do
+                {
+                    Console.Write("Nota en " + it.Nombre() + ": ");
+                    nota = Convert.ToDouble(Console.ReadLine());
+                    if (nota < 0 || nota > 10)
+                    {
+                        Console.WriteLine("Nota inválida");
+                    }
+                } while (nota < 0 || nota > 10);
+
                 total += nota * it.Porcentaje();
             }
             
