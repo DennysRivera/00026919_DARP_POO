@@ -62,7 +62,7 @@ namespace Ejercicio_01
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(483, 284);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(837, 457);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label1
@@ -72,7 +72,7 @@ namespace Ejercicio_01
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(138, 94);
+            this.label1.Size = new System.Drawing.Size(245, 152);
             this.label1.TabIndex = 0;
             this.label1.Text = "Carnet:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -82,9 +82,9 @@ namespace Ejercicio_01
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.label2.Location = new System.Drawing.Point(3, 94);
+            this.label2.Location = new System.Drawing.Point(3, 152);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(138, 94);
+            this.label2.Size = new System.Drawing.Size(245, 152);
             this.label2.TabIndex = 1;
             this.label2.Text = "Materia:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -92,7 +92,7 @@ namespace Ejercicio_01
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Location = new System.Drawing.Point(241, 35);
+            this.textBox1.Location = new System.Drawing.Point(471, 64);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(145, 23);
             this.textBox1.TabIndex = 2;
@@ -103,9 +103,9 @@ namespace Ejercicio_01
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.button1.Location = new System.Drawing.Point(3, 191);
+            this.button1.Location = new System.Drawing.Point(3, 307);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(477, 90);
+            this.button1.Size = new System.Drawing.Size(831, 147);
             this.button1.TabIndex = 4;
             this.button1.Text = "Inscribir";
             this.button1.UseVisualStyleBackColor = true;
@@ -114,7 +114,7 @@ namespace Ejercicio_01
             // 
             this.comboBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(227, 129);
+            this.comboBox1.Location = new System.Drawing.Point(458, 216);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(172, 23);
             this.comboBox1.TabIndex = 5;
@@ -123,9 +123,10 @@ namespace Ejercicio_01
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Inscription";
-            this.Size = new System.Drawing.Size(483, 284);
+            this.Size = new System.Drawing.Size(837, 457);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

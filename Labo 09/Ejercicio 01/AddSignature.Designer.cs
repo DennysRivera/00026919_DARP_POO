@@ -58,7 +58,7 @@ namespace Ejercicio_01
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(476, 260);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(855, 447);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label1
@@ -68,7 +68,7 @@ namespace Ejercicio_01
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(136, 86);
+            this.label1.Size = new System.Drawing.Size(250, 149);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nombre:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -76,9 +76,9 @@ namespace Ejercicio_01
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Location = new System.Drawing.Point(221, 31);
+            this.textBox1.Location = new System.Drawing.Point(468, 63);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(176, 23);
+            this.textBox1.Size = new System.Drawing.Size(175, 23);
             this.textBox1.TabIndex = 1;
             // 
             // button1
@@ -87,9 +87,9 @@ namespace Ejercicio_01
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.button1.Location = new System.Drawing.Point(3, 175);
+            this.button1.Location = new System.Drawing.Point(3, 301);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(470, 82);
+            this.button1.Size = new System.Drawing.Size(849, 143);
             this.button1.TabIndex = 2;
             this.button1.Text = "Añadir materia";
             this.button1.UseVisualStyleBackColor = true;
@@ -98,9 +98,10 @@ namespace Ejercicio_01
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "AddSignature";
-            this.Size = new System.Drawing.Size(476, 260);
+            this.Size = new System.Drawing.Size(855, 447);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
