@@ -1,0 +1,13 @@
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\bin\Debug\Ejercicio_01.exe.config
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\bin\Debug\Ejercicio_01.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\bin\Debug\Ejercicio_01.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio 01.csprojAssemblyReference.cache
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.Properties.Resources.resources
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.GenerateResource.cache
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.AddSignature.resources
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.Form1.resources
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.Inscription.resources
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.RegisterStudent.resources
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 09\Ejercicio 01\obj\Debug\Ejercicio_01.ViewData.resources
