@@ -33,10 +33,9 @@ namespace Ejercicio_01
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("ha ocurrido un error");
+                    MessageBox.Show("Ha ocurrido un error");
                 }
             }
         }
-       
     }
 }

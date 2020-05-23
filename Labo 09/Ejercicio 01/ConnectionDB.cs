@@ -7,11 +7,11 @@ namespace Ejercicio_01
     {
         private static string host = "127.0.0.1",
             database = "Laboratorio09",
-            userID = "postgres",
+            userId = "postgres",
             password = "Hajahaja123";
 
         private static string sConnection =
-            $"Server={host};Port=5432;User Id={userID};Password={password};Database{database};";
+            $"Server={host};Port=5432;User Id={userId};Password={password};Database={database};";
 
         public static DataTable ExecuteQuery(string query)
         {
