@@ -1,0 +1,5 @@
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 10\Labo 10\bin\Debug\Labo_10.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 10\Labo 10\bin\Debug\Labo_10.pdb
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 10\Labo 10\obj\Debug\Labo 10.csprojAssemblyReference.cache
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 10\Labo 10\obj\Debug\Labo_10.exe
+C:\Users\denny\Desktop\00026919_DARP_POO\00026919_DARP_POO\Labo 10\Labo 10\obj\Debug\Labo_10.pdb
